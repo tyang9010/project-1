@@ -1,0 +1,189 @@
+                                                                           Marginal Effect  \
+Group List                                                                                   
+Age of Reference Person(<=24)                 9                                      25-34   
+                                              10                                     35-44   
+                                              11                                     45-54   
+                                              12                                     55-64   
+                                              13                                     65-74   
+Composition of Earners(Reference person only) 31               Reference person and spouse   
+                                              32       Reference person, spouse and others   
+                                              33               Reference person and others   
+                                              34                               Spouse only   
+                                              35                         Spouse and others   
+Family Composition                            0      Number of males age 16 and over in CU   
+                                              1    Number of females age 16 and over in CU   
+                                              2     Number of males age 2 through 15 in CU   
+                                              3   Number of females age 2 through 15 in CU   
+                                              4        Number of members under age 2 in CU   
+Highest Education(Less than High school)      20                               HS Graduate   
+                                              21                   Some college, no degree   
+                                              22                                 AA degree   
+                                              23                          Bachelors degree   
+                                              24                            Masters degree   
+Housing Tenure(Owned with mortgage)           27                    Owned without mortgage   
+                                              28                                    Rented   
+                                              29     Occupied without payment of cash rent   
+                                              30                           Student housing   
+Income class (Less than $5,000)               38                            5,000 to 9,999   
+                                              39                          10,000 to 14,999   
+                                              40                          15,000 to 19,999   
+                                              41                          20,000 to 29,999   
+                                              42                          30,000 to 39,999   
+Race of Reference Person(White)               15                                     Black   
+                                              16                           Native American   
+                                              17                                     Asian   
+                                              18                          Pacific Islander   
+                                              19                                Multi-race   
+Region(Urban)                                 26                                     Rural   
+
+                                                 Food Dominant  \
+Group List                                                       
+Age of Reference Person(<=24)                 9        -0.0388   
+                                              10       -0.0291   
+                                              11        0.0046   
+                                              12        0.0072   
+                                              13       -0.0387   
+Composition of Earners(Reference person only) 31        0.0113   
+                                              32        0.0013   
+                                              33       -0.0370   
+                                              34       -0.0135   
+                                              35       -0.0096   
+Family Composition                            0         0.0381   
+                                              1         0.0024   
+                                              2        -0.0088   
+                                              3        -0.0075   
+                                              4        -0.0282   
+Highest Education(Less than High school)      20       -0.0097   
+                                              21       -0.0284   
+                                              22       -0.0496   
+                                              23       -0.0465   
+                                              24       -0.0414   
+Housing Tenure(Owned with mortgage)           27        0.2546   
+                                              28       -0.0046   
+                                              29        0.2117   
+                                              30        0.4488   
+Income class (Less than $5,000)               38        0.0094   
+                                              39       -0.0324   
+                                              40       -0.0540   
+                                              41       -0.0731   
+                                              42       -0.0855   
+Race of Reference Person(White)               15       -0.0473   
+                                              16        0.1157   
+                                              17        0.0087   
+                                              18        0.0234   
+                                              19       -0.0071   
+Region(Urban)                                 26        0.0944   
+
+                                                 Housing Dominant  \
+Group List                                                          
+Age of Reference Person(<=24)                 9            0.0541   
+                                              10           0.0723   
+                                              11           0.0484   
+                                              12           0.0507   
+                                              13           0.0929   
+Composition of Earners(Reference person only) 31          -0.0348   
+                                              32          -0.0520   
+                                              33           0.0207   
+                                              34           0.0009   
+                                              35          -0.0165   
+Family Composition                            0           -0.0501   
+                                              1           -0.0038   
+                                              2            0.0173   
+                                              3            0.0168   
+                                              4            0.0535   
+Highest Education(Less than High school)      20          -0.0123   
+                                              21          -0.0021   
+                                              22           0.0252   
+                                              23           0.0285   
+                                              24           0.0325   
+Housing Tenure(Owned with mortgage)           27          -0.3191   
+                                              28           0.0230   
+                                              29          -0.2705   
+                                              30          -0.6082   
+Income class (Less than $5,000)               38           0.0011   
+                                              39           0.0178   
+                                              40           0.0473   
+                                              41           0.0475   
+                                              42           0.0597   
+Race of Reference Person(White)               15           0.0346   
+                                              16          -0.0767   
+                                              17           0.0144   
+                                              18           0.0084   
+                                              19           0.0172   
+Region(Urban)                                 26          -0.1418   
+
+                                                 Transportation Dominant  \
+Group List                                                                 
+Age of Reference Person(<=24)                 9                  -0.0152   
+                                              10                 -0.0432   
+                                              11                 -0.0530   
+                                              12                 -0.0579   
+                                              13                 -0.0542   
+Composition of Earners(Reference person only) 31                  0.0235   
+                                              32                  0.0507   
+                                              33                  0.0163   
+                                              34                  0.0126   
+                                              35                  0.0261   
+Family Composition                            0                   0.0119   
+                                              1                   0.0014   
+                                              2                  -0.0084   
+                                              3                  -0.0093   
+                                              4                  -0.0252   
+Highest Education(Less than High school)      20                  0.0221   
+                                              21                  0.0304   
+                                              22                  0.0244   
+                                              23                  0.0180   
+                                              24                  0.0088   
+Housing Tenure(Owned with mortgage)           27                  0.0646   
+                                              28                 -0.0184   
+                                              29                  0.0587   
+                                              30                  0.1594   
+Income class (Less than $5,000)               38                 -0.0104   
+                                              39                  0.0146   
+                                              40                  0.0067   
+                                              41                  0.0256   
+                                              42                  0.0258   
+Race of Reference Person(White)               15                  0.0127   
+                                              16                 -0.0390   
+                                              17                 -0.0230   
+                                              18                 -0.0319   
+                                              19                 -0.0100   
+Region(Urban)                                 26                  0.0473   
+
+                                                                                     Group List  
+Group List                                                                                       
+Age of Reference Person(<=24)                 9                   Age of Reference Person(<=24)  
+                                              10                  Age of Reference Person(<=24)  
+                                              11                  Age of Reference Person(<=24)  
+                                              12                  Age of Reference Person(<=24)  
+                                              13                  Age of Reference Person(<=24)  
+Composition of Earners(Reference person only) 31  Composition of Earners(Reference person only)  
+                                              32  Composition of Earners(Reference person only)  
+                                              33  Composition of Earners(Reference person only)  
+                                              34  Composition of Earners(Reference person only)  
+                                              35  Composition of Earners(Reference person only)  
+Family Composition                            0                              Family Composition  
+                                              1                              Family Composition  
+                                              2                              Family Composition  
+                                              3                              Family Composition  
+                                              4                              Family Composition  
+Highest Education(Less than High school)      20       Highest Education(Less than High school)  
+                                              21       Highest Education(Less than High school)  
+                                              22       Highest Education(Less than High school)  
+                                              23       Highest Education(Less than High school)  
+                                              24       Highest Education(Less than High school)  
+Housing Tenure(Owned with mortgage)           27            Housing Tenure(Owned with mortgage)  
+                                              28            Housing Tenure(Owned with mortgage)  
+                                              29            Housing Tenure(Owned with mortgage)  
+                                              30            Housing Tenure(Owned with mortgage)  
+Income class (Less than $5,000)               38                Income class (Less than $5,000)  
+                                              39                Income class (Less than $5,000)  
+                                              40                Income class (Less than $5,000)  
+                                              41                Income class (Less than $5,000)  
+                                              42                Income class (Less than $5,000)  
+Race of Reference Person(White)               15                Race of Reference Person(White)  
+                                              16                Race of Reference Person(White)  
+                                              17                Race of Reference Person(White)  
+                                              18                Race of Reference Person(White)  
+                                              19                Race of Reference Person(White)  
+Region(Urban)                                 26                                  Region(Urban)  
